@@ -27,8 +27,8 @@
 
 ## Model
 
-![project_pipeline](https://github.com/SangBeom-Hahn/
-Sketch2Fashion/blob/main/sample_image/model.PNG)
+![project_pipeline](https://github.com/SangBeom-Hahn/Sketch2Fashion/blob/main/assests/model.png)
+
 
 전체적인 파이프라인은 2 stage로 이루어져있다. 1단계에서도 2개로 나뉜다. A는 고객이 그린 의류 sketch를 채색 모델을 통해 채색을 하는 것이고 B는 고객이 그린 의류 sketch를 실제 의류 이미지로 변환하는 것이다. A는 sketch에 고객이 원하는 색으로 점을 찍거나 선을 그리는 등 단순한 처리로 완벽한 채색 결과를 생성해내고 검은 색 선으로 스케치의 영역을 구분하는 등 커스터마이징을 할 수 있다. 
 
