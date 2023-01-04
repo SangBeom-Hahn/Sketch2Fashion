@@ -52,6 +52,7 @@ OpenSW_Team5
 
 -->
 
+
 <!--
 
 ## Local
@@ -59,25 +60,15 @@ OpenSW_Team5
 python==3.7.13
 cuda 10.0 - rtx 2080 super
 ```
+--> 
+
+
 
 ## Requirements
 ```
-pytorch==1.6.0
-torchvision==0.7.0
-mmcv(mmcv-full)==1.7.0
-mmdet==2.26.0
+tensorflow==2.x
+tensorflow-GPU==2.x
 ```
-
-
-
-## Authors
-
-|피선우|한상범|홍찬의|
-|:-:|:-:|:-:|
-|[Github](https://github.com/SunWoo98Pi)|[Github](https://github.com/SangBeom-Hahn)|[Github](https://github.com/hcu55)|
-
-
--->
 
 ## reference
 - [Sketch2Fashion: Generating clothing visualization from sketches](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24693891-8915-4e8b-94b9-5a98831188f0/55752208.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221220T093913Z&X-Amz-Expires=86400&X-Amz-Signature=2822a6743f941bcbc812850571d23c7ac23cd3c2d4f08c3e383aa91a7dd60fe2&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%2255752208.pdf%22&x-id=GetObject)
@@ -86,9 +77,11 @@ mmdet==2.26.0
 - [Sketch Your Own GAN](https://arxiv.org/abs/2108.02774)
 - [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://geometrylearning.com/paper/DeepFaceDrawing-supple.pdf)
 
+<!--
+## Authors
 
-## Author
-👤 **SangBoem-Hahn**
+|ㄹㄴ|한상범|홍찬의|
+|:-:|:-:|:-:|
+|[Github](https://github.com/SunWoo98Pi)|[Github](https://github.com/SangBeom-Hahn)|[Github](https://github.com/hcu55)|
 
-- Github: [@SangBoem-Hahn](https://github.com/SangBoem-Hahn)
-- Blog : [Tistory(Sketch2Fashion)](https://hsb422.tistory.com/entry/%EC%86%90%EA%B7%B8%EB%A6%BC-%EC%9D%98%EB%A5%98-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-with-BOAZ)
+-->
