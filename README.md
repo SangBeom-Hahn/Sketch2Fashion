@@ -12,17 +12,31 @@
 
 ### modify
 <p align ="center">
-  <img src = "https://user-images.githubusercontent.com/90328527/210698909-1e86e5ec-29cf-49ac-9842-43d1bc8c09e9.gif">
+  <img src = "https://user-images.githubusercontent.com/90328527/210715156-50f9fc38-2b47-4b58-b7ba-18eb62bfcf26.gif">
 </p>
+
+<p align ="center">
+  <img src = "https://user-images.githubusercontent.com/90328527/210715208-c9645dee-884d-4702-9acf-517b9010f1d9.gif">
+</p>
+
+<p align ="center">
+  <img src = "https://user-images.githubusercontent.com/90328527/210715257-4de5b579-5c74-4b24-a538-6ad24c1f2d14.gif">
+</p>
+
 
 ### colorization
 <p align ="center">
-  <img src = "https://user-images.githubusercontent.com/90328527/210698957-13e7f2c8-fee4-4a58-9c0a-2b70a67cfc41.gif">
+  <img src = "https://user-images.githubusercontent.com/90328527/210715306-cec0fda6-60c2-47bf-8521-742aabdffb60.gif">
 </p>
+
+<p align ="center">
+  <img src = "https://user-images.githubusercontent.com/90328527/210715355-b3731542-17ed-4f9c-a76e-4457cae80051.gif">
+</p>
+
 
 ### visual search
 <p align ="center">
-  <img src = "https://user-images.githubusercontent.com/90328527/210698996-6f9f6dfc-f1bb-423f-861f-3391a7f1fec0.gif">
+  <img src = "https://user-images.githubusercontent.com/90328527/210715389-980350ef-42e9-423c-b7d3-4ee5f7e64148.gif">
 </p>
 
 ## Dataset
