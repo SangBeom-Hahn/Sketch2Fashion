@@ -8,8 +8,22 @@
 
 본 프로젝트는 사람이 손으로 그린 의류 스케치를 실제 의류 이미지로 변환하고 변환된 이미지로 실제 쇼핑몰에서 판매하는 상품을 검색하는 서비스를 제공한다.
 
-![데모 영상](https://github.com/SangBeom-Hahn/OpenSW_Team5/blob/main/sample_image/no.jpg)
+## ✨ Demo
 
+### modify
+<p align ="center">
+  <img src = "https://user-images.githubusercontent.com/90328527/210698909-1e86e5ec-29cf-49ac-9842-43d1bc8c09e9.gif">
+</p>
+
+### colorization
+<p align ="center">
+  <img src = "https://user-images.githubusercontent.com/90328527/210698957-13e7f2c8-fee4-4a58-9c0a-2b70a67cfc41.gif">
+</p>
+
+### visual search
+<p align ="center">
+  <img src = "https://user-images.githubusercontent.com/90328527/210698996-6f9f6dfc-f1bb-423f-861f-3391a7f1fec0.gif">
+</p>
 
 ## Dataset
 
