@@ -105,11 +105,10 @@ tensorflow-GPU==2.x
 - [Sketch Your Own GAN](https://arxiv.org/abs/2108.02774)
 - [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://geometrylearning.com/paper/DeepFaceDrawing-supple.pdf)
 
-<!--
-## Authors
+## Author
 
-|ㄹㄴ|한상범|홍찬의|
-|:-:|:-:|:-:|
-|[Github](https://github.com/SunWoo98Pi)|[Github](https://github.com/SangBeom-Hahn)|[Github](https://github.com/hcu55)|
+👤 **SangBoem-Hahn**
 
--->
+- Github: [@SangBoem-Hahn](https://github.com/SangBeom-Hahn)
+- Blog : [Tistory(Sketch2Fashion)](https://hsb422.tistory.com/entry/%EC%86%90%EA%B7%B8%EB%A6%BC-%EC%9D%98%EB%A5%98-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-with-BOAZ)
+---
