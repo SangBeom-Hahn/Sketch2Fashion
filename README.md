@@ -62,23 +62,20 @@
 
 2단계에서는 1단계에서 나온 결과물을 MS visual search API의 입력으로 넣어 실제로 입력 이미지와 유사한 제품을 판매하고 있는 쇼핑몰의 URL을 반환한다.
 
-
-<!--
 ## Project Structure
 
 ```
-OpenSW_Team5
-├── Final Project_MMDetection
-├── mmdetection_code
-├── team_assignment
-└── bot.py
+Sketch2Fashion
+├── utils
+├── create_training_set.py
+├── generate_image.py
+└── train_gan.py
 ```
 
-- Final Project_MMDetection : 데이터 전처리
-- mmdetection_code : MASK-RCNN 코드
-- bot.py : 텔레그램 봇 실행 코드
-
--->
+- utils : 유틸리티 모듈 폴더
+- create_training_set.py : 이미지 pair 구성 코드
+- generate_image.py : inference 코드
+- train_gan.py : train 코드
 
 
 <!--
