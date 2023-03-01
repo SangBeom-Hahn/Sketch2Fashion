@@ -60,12 +60,22 @@
 ```
 Sketch2Fashion
 ├── utils
+├── root
+    ├── model
+    ├── static
+    ├── templates
+    └── views
 ├── create_training_set.py
 ├── generate_image.py
 └── train_gan.py
 ```
 
 - utils : 유틸리티 모듈 폴더
+- root : 어플리케이션 루트 폴더
+    - model : 카테고리별 채색 모델 적재 폴더
+    - static : 웹페이지 구성에 필요한 리소스를 모아놓은 폴더
+    - templates : 웹페이지 템플릿 폴더
+    - views : 라우팅 함수 구현 폴더
 - create_training_set.py : 이미지 pair 구성 코드
 - generate_image.py : inference 코드
 - train_gan.py : train 코드
