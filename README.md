@@ -10,31 +10,26 @@
 
 ### modify
 <p align ="center">
-  <img src = "https://user-images.githubusercontent.com/90328527/222012066-38554844-548d-4cd9-8ae7-bc7c8fbb61c0.gif">
+  <img src = "https://user-images.githubusercontent.com/90328527/222012872-e316b82f-9974-4d4f-a012-0e8dc9f042ce.gif">
 </p>
 
 <p align ="center">
-  <img src = "https://user-images.githubusercontent.com/90328527/210715208-c9645dee-884d-4702-9acf-517b9010f1d9.gif">
+  <img src = "https://user-images.githubusercontent.com/90328527/222012941-c73322ef-4afa-4ec6-8bab-915aa5fa79e7.gif">
 </p>
-
-<p align ="center">
-  <img src = "https://user-images.githubusercontent.com/90328527/210715257-4de5b579-5c74-4b24-a538-6ad24c1f2d14.gif">
-</p>
-
 
 ### colorization
 <p align ="center">
-  <img src = "https://user-images.githubusercontent.com/90328527/210715306-cec0fda6-60c2-47bf-8521-742aabdffb60.gif">
+  <img src = "https://user-images.githubusercontent.com/90328527/222012981-040a0d12-5a36-40b6-8187-d2e9121db740.gif">
 </p>
 
 <p align ="center">
-  <img src = "https://user-images.githubusercontent.com/90328527/210715355-b3731542-17ed-4f9c-a76e-4457cae80051.gif">
+  <img src = "https://user-images.githubusercontent.com/90328527/222013017-29ead234-71a9-4839-915c-5d2f8014a416.gif">
 </p>
 
 
 ### visual search
 <p align ="center">
-  <img src = "https://user-images.githubusercontent.com/90328527/210715389-980350ef-42e9-423c-b7d3-4ee5f7e64148.gif">
+  <img src = "https://user-images.githubusercontent.com/90328527/222012066-38554844-548d-4cd9-8ae7-bc7c8fbb61c0.gif">
 </p>
 
 ## Dataset
