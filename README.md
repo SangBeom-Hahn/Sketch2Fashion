@@ -32,29 +32,6 @@
   <img src = "https://user-images.githubusercontent.com/90328527/222012066-38554844-548d-4cd9-8ae7-bc7c8fbb61c0.gif">
 </p>
 
-## Dataset
-
-|Data|데이터 수|Train 데이터 수|Val 데이터 수|세부사항|
-|:-:|:-:|:-:|:-:|:-:|
-|1|2543|1889|654|hat|
-|2|2589|1912|677|pants|
-|3|2549|1892|657|t-shirts|
-|4|2537|1818|689|651|skirt|
-
-
-학습에는 fashion-outfit-items 데이터 셋을 활용, 카테고리 별로 약 2500개로 구성된다.
-
-출처 : https://www.kaggle.com/datasets/kritanjalijain/fashionoutfititems
-
-## Model
-
-![project_pipeline](https://github.com/SangBeom-Hahn/Sketch2Fashion/blob/main/assests/model.png)
-
-
-전체적인 파이프라인은 2 stage로 이루어져 있다. 1단계에서도 2개로 나뉜다. A는 고객이 그린 의류 sketch를 채색 모델을 통해 채색을 하는 것이고 B는 고객이 그린 의류 sketch를 실제 의류 이미지로 변환하는 것이다. A는 sketch에 고객이 원하는 색으로 점을 찍거나 선을 그리는 등 단순한 처리로 완벽한 채색 결과를 생성해 내고 검은색 선으로 스케치의 영역을 구분하는 등 커스터마이징을 할 수 있다. 
-
-2단계에서는 1단계에서 나온 결과물을 MS visual search API의 입력으로 넣어 실제로 입력 이미지와 유사한 제품을 판매하고 있는 쇼핑몰의 URL을 반환한다.
-
 ## Project Structure
 
 ```
@@ -80,15 +57,11 @@ Sketch2Fashion
 - generate_image.py : inference 코드
 - train_gan.py : train 코드
 
-
-<!--
-
-## Local
-```
-python==3.7.13
-cuda 10.0 - rtx 2080 super
-```
---> 
+## Features
+1. 스케치 업로드
+2. sketch를 실사로 변환
+3. 유사 이미지 검색
+    - 유사한 제품을 판매하는 쇼핑몰로 연결
 
 
 
