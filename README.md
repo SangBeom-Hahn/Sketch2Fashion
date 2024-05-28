@@ -78,10 +78,36 @@ tensorflow-GPU==2.x
 - [Sketch Your Own GAN](https://arxiv.org/abs/2108.02774)
 - [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://geometrylearning.com/paper/DeepFaceDrawing-supple.pdf)
 
-## Author
+## Team
 
-👤 **SangBoem-Hahn**
+<table>
+    <tr height="160px">
+        <td align="center" width="150px">
+            <a href="https://github.com/yeoniiii"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/yeoniiii"/></a>
+            <br/>
+            <a href="https://github.com/yeoniiii"><strong>김혜연</strong></a>
+            <br />
+        </td>
+        <td align="center" width="150px">
+            <a href="https://github.com/tech923"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/tech923"/></a>
+            <br/>
+            <a href="https://github.com/tech923"><strong>조현정</strong></a>
+            <br />
+        </td>
+        <td align="center" width="150px">
+            <a href="https://github.com/youjin0450"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/youjin0450"/></a>
+            <br/>
+            <a href="https://github.com/youjin0450"><strong>최유진</strong></a>
+            <br />
+        </td>
+        <td align="center" width="150px">
+            <a href="https://github.com/SangBeom-Hahn"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/SangBeom-Hahn"/></a>
+            <br/>
+            <a href="https://github.com/SangBeom-Hahn"><strong>한상범</strong></a>
+            <br />
+        </td>
+    </tr>
+</table>
 
-- Github: [@SangBoem-Hahn](https://github.com/SangBeom-Hahn)
 - Blog : [Tistory(Sketch2Fashion)](https://hsb422.tistory.com/entry/%EC%86%90%EA%B7%B8%EB%A6%BC-%EC%9D%98%EB%A5%98-%EA%B2%80%EC%83%89-%EC%84%9C%EB%B9%84%EC%8A%A4)
 ---
