@@ -109,5 +109,5 @@ tensorflow-GPU==2.x
     </tr>
 </table>
 
-- Blog : [Tistory(Sketch2Fashion)](https://hsb422.tistory.com/entry/%EC%86%90%EA%B7%B8%EB%A6%BC-%EC%9D%98%EB%A5%98-%EA%B2%80%EC%83%89-%EC%84%9C%EB%B9%84%EC%8A%A4)
+- Blog : [Tistory(Sketch2Fashion)](https://hsb422.tistory.com/entry/%EC%86%90%EA%B7%B8%EB%A6%BC-%EC%9D%98%EB%A5%98-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-with-BOAZ)
 ---
